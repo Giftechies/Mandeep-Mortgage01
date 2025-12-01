@@ -808,20 +808,22 @@ useGSAP(() => {
                   </div>
                   <div className="grid grid-cols-2 gap-4 text-[var(--secgr)] w-full ">
                     <div className="  flex flex-col items-center justify-center overflow-hidden p-2">
-                     <div className=" h-24   place-items-center flex overflow-hidden">
+                     <div className=" h-24    place-items-center flex overflow-hidden">
                        <img
-                        src= "/financial-logo.png "
+                        src= "/logo33.avif "
                         alt="Membership Logo"
+                         className=" objec-cover"
                       />
                      </div>
-                      <h6 className="text-center mt-2"> Financial Ombudsman service </h6>
+                      <h6 className="text-center mt-2"> Financial Ombudsman </h6>
                     </div>
 
                     <div className="  flex flex-col items-center justify-center p-2 ">
-                   <div className="h-24 flex overflow-hidden  ">
+                   <div className="h-24   flex overflow-hidden  ">
                        <img
-                        src="/KAN-Logo.png"
+                        src="/logo11.avif"
                         alt="Membership Logo"
+                        className=" objec-cover"
                       />
                    </div>
                       <h6 className="text-center ">
