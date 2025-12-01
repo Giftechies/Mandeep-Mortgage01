@@ -15,25 +15,25 @@ export const testimonials: Testimonial[] = [
   {
     id: 1,
     name: 'laddi dhillon',
-    quote: `I highly recommend Lifecycle financial for their efficiency and support. They maintained excellent communication and were always ...`,
+    quote: `I highly recommend Mandeep Mortgage for their efficiency and support. They maintained excellent communication and were always ...`,
     rating: 5,
   },
   {
     id: 2,
     name: 'Pritpaal Sokhi',
-    quote: `Excellent service and great financial advice to help save money and invest wisely. Harpreet Rattan is very professional, quick...`,
+    quote: `Excellent service and great financial advice to help save money and invest wisely. Mandeep Mortgage is very professional, quick...`,
     rating: 5,
   },
   {
     id: 3,
     name: 'Monu Singh',
-    quote: `Really good service from Harpreet Rattan . he is really good consultant and always give good advice to help you save money and do...`,
+    quote: `Really good service from Mandeep Mortgage . he is really good consultant and always give good advice to help you save money and do...`,
     rating: 4,
   },
   {
     id: 4,
     name: 'Sushwanth Sai Konigeti',
-    quote: `Very Professional and Quick in providing financial advice and Mortgages. Mrs Raji Rathan is being very helpful and supportive throughout the ...`,
+    quote: `Very Professional and Quick in providing financial advice and Mortgages. Mandeep Mortgage is being very helpful and supportive throughout the ...`,
     rating: 5,
   },
   {

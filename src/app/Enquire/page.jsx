@@ -73,7 +73,7 @@ export default function EnquiryNow() {
               </div>
               <h4 className="font-semibold mb-2">Phone</h4>
               <a href="tel:0800507770" className="text-gray-600 transition">
-                0800 507 770
+                95920 00818
               </a>
             </div>
 
@@ -84,10 +84,10 @@ export default function EnquiryNow() {
               </div>
               <h4 className="font-semibold mb-2">Email</h4>
               <a
-                href="mailto:harpreet@lifecyclefinancial.co.nz"
+                href="mailto:info@abcmortgage.com"
                 className="text-gray-600 transition break-words text-center w-full"
               >
-                harpreet@lifecyclefinancial.co.nz
+                info@abcmortgage.com
               </a>
             </div>
 
@@ -97,7 +97,7 @@ export default function EnquiryNow() {
                 <i className="ri-map-pin-line text-3xl"></i>
               </div>
               <h4 className="font-semibold mb-2">Address</h4>
-              <a className="text-gray-600">3 Otaota way, Flat Bush, Auckland</a>
+              <a className="text-gray-600">Near GNDE college, Ludhiana,Punjab</a>
             </div>
             {/* Business */}
             <div className="Enquire-box bg-white shadow rounded-lg p-2 border-b-2 border-[var(--primg)] flex flex-col items-center  justify-center">

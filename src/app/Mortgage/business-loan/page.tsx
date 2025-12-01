@@ -63,7 +63,7 @@ const Sidebar = () => {
               {/* <h2 className="   leading-6 text-[18px] lg:text-[26px]  lg:mt-6 font-semibold mt-3 ">
               </h2> */}
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-                Business Loan are the backbone of business growth. Whether you are considering purchasing new equipment or launching a new product, business Loan can help you manage your cash flow. Our team at LifeCycle Financial is here to be your guide throughout the process, helping you source and negotiate the best possible funding for businesses across New Zealand.
+                Business Loan are the backbone of business growth. Whether you are considering purchasing new equipment or launching a new product, business Loan can help you manage your cash flow. Our team at Mandeep Mortgage is here to be your guide throughout the process, helping you source and negotiate the best possible funding for businesses across New Zealand.
               </p>
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
                Our goal is to help your business access the capital you need—quickly and transparently.

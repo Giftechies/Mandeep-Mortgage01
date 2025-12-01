@@ -81,15 +81,15 @@ export default function Slider() {
 
           <a href="tel:0800507770" className="flex items-center gap-2 mt-2 text-sm">
             <i className="ri-phone-line text-xl text-[var(--primg)]" />
-            <span className="font-medium">0800 50 7770</span>
+            <span className="font-medium">95920 00818</span>
           </a>
 
           <a
-            href="mailto:harpreet@lifecyclefinancial.co.nz"
+            href="mailto:info@abcmortgage.com"
             className="flex items-start gap-2 mt-2 text-sm break-all"
           >
             <i className="ri-mail-line text-xl -mt-1 text-[var(--primg)]" />
-            <span className=" text-[13px] font-medium">harpreet@lifecyclefinancial.co.nz</span>
+            <span className=" text-[13px] font-medium">info@abcmortgage.com</span>
           </a>
  <Link href={'/Enquire'} passHref >
           <button className="bg-[var(--primg)] text-white w-full rounded-md mt-5 py-2 text-sm hover:opacity-90 transition">

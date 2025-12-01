@@ -377,8 +377,8 @@ const Sidebar = () => {
                 </span>{" "}
                 which will cover Pre-Existing Conditions. For more information
                 or a free no obligation review of your Insurance needs then
-                please contact us on 0800 50 7770 or
-                harpreet@lifecyclefinancial.co.nz{" "}
+                please contact us on 95920 00818 or
+                info@abcmortgage.com{" "}
               </p>
             </div>
           </section>

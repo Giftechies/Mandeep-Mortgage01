@@ -75,7 +75,7 @@ const Sidebar = () => {
                   {/* content 2 */}
                   <div className=" text-black/60 mt-4 ">
                     <h1 className=" lg:text-[26px] text-black font-semibold ">
-                      Why Refinance With Lifecycle Financial?
+                      Why Refinance With Mandeep Mortgage?
                     </h1>
 
                     {cover.map((el) => (
@@ -116,7 +116,7 @@ const Sidebar = () => {
                     </h1>
 
                     <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-                      Do you need to refinance a home loan or personal loan or investment loan or any other loan? We will assist you in making smart, informed decisions. Personalised, transparent and tangible results are what you receive with Lifecycle Financial.
+                      Do you need to refinance a home loan or personal loan or investment loan or any other loan? We will assist you in making smart, informed decisions. Personalised, transparent and tangible results are what you receive with Mandeep Mortgage.
                     </p>
                   </div>
 

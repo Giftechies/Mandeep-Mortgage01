@@ -36,10 +36,16 @@ export default function RootLayout({
    
   return (
     <html lang="en">
+      <head>
+                <meta name="robots" content="noindex, nofollow" />
+        <meta name="googlebot" content="noindex, nofollow" />
+
+      </head>
       <link
     href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
     rel="stylesheet"
 />
+
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

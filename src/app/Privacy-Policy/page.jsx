@@ -28,7 +28,7 @@ export default function(){
     all other applicable laws.
   </p>
   <p>
-    In this Privacy Policy, “we” “us” and “our” means Lifecycle Financial Services Ltd, as the context requires. By
+    In this Privacy Policy, “we” “us” and “our” means Mandeep Mortgage Services Ltd, as the context requires. By
     receiving our services, you agree to this Privacy Policy and to us collecting, using, disclosing, storing, and
     retaining your personal information in accordance with this Privacy Policy and the Privacy Act 2020.
   </p>
@@ -81,7 +81,7 @@ export default function(){
   <p>We may collect your personal information from:</p>
   <ul className="list-disc pl-5 space-y-1">
     <li>Directly from you (via our website or conversations)</li>
-    <li>Lifecycle Financial Services Ltd and related bodies corporate</li>
+    <li>Mandeep Mortgage Services Ltd and related bodies corporate</li>
     <li>Credit reporting agencies</li>
     <li>With your consent, from banks and employers</li>
     <li>Product providers</li>
@@ -161,9 +161,9 @@ export default function(){
 
   <h3 className="text-[20px] font-semibold text-black">13. How to contact us</h3>
   <ul className="list-disc pl-5 space-y-1">
-    <li>Email: harpreet@lifecyclefinancial.co.nz </li>
-    <li>Phone: 0800 507 770</li>
-    <li>Mail: Harpreet Rattan, 3 Otaota way, Flat Bush, Auckland</li>
+    <li>Email: info@abcmortgage.com </li>
+    <li>Phone: 95920 00818</li>
+    <li>Mail: Mandeep Mortgage, Near GNDE college, Ludhiana,Punjab</li>
   </ul>
 </div>
                 </div>

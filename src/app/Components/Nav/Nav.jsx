@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
 
 export default function Nav({ setIsMenuOpen }) {
   const [lastScrollY, setLastScrollY] = useState(0);
@@ -14,19 +15,21 @@ export default function Nav({ setIsMenuOpen }) {
   return (
     <>
       <nav className="  w-full max-w-[1600px] min-w--[320px] mx-auto ">
-        <div className=" w-full h-15  lg:h-20 px-4   lg:px-[3rem]  py-1  flex items-center justify-between      max-w-[1600px] mx-auto ">
+        <div className=" w-full h-15  lg:h-20 px-4   lg:px-[3rem]  py-2  flex items-center justify-between      max-w-[1600px] mx-auto ">
           {/*logo  */}
           <div
             onClick={() => router.push("/")}
             className=" cursor-pointer w-[70px] md:w-[70px] p-1  lg:w-[90px] xl:w-[120px]  bg-white lg:p-3 mt-6 z-40 "
           >
-            <img
-              src="/logo.png"
+            <Image
+            width={250}
+            height={250}
+              src="/logo1.avif"
               alt="Company Logo"
               className="object-contain z-40 w-full h-full"
             />
           </div>
-          <div className=" flex items-center lg:gap-3 lg:text-[14px] xl:gap-12 xl:text-[16px]">
+          <div className="  flex items-center lg:gap-3 lg:text-[14px] xl:gap-12 xl:text-[16px]">
             <div className="hidden mb:flex mb:gap-1  lg:flex gap-3  ">
              
               <Link
@@ -55,10 +58,10 @@ export default function Nav({ setIsMenuOpen }) {
                       "Life insurance",
                       "Trauma Recovery Cover",
                       "Total Permanent Disability Benefit Cover",
-                      "Mortgage & Rent Protection Cover",
-                      "Income Protection Cover",
-                      "Medical Insurance",
-                      "Group Insurance",
+                      // "Mortgage & Rent Protection Cover",
+                      // "Income Protection Cover",
+                      // "Medical Insurance",
+                      // "Group Insurance",
                     ].map((item, index) => (
                       <Link
                         key={index}
@@ -76,7 +79,7 @@ export default function Nav({ setIsMenuOpen }) {
               </div>
 
               {/* Mortgage dropdown */}
-              <div
+              {/* <div
                 className="relative   px-4 py-2 group"
                 onMouseEnter={() => setMortgageOpen(true)}
                 onMouseLeave={() => setMortgageOpen(false)}
@@ -109,7 +112,7 @@ export default function Nav({ setIsMenuOpen }) {
                     ))}
                   </div>
                 )}
-              </div>
+              </div> */}
 
               <div className="px-4 py-2 group relative">
                 <Link href="/Case-study" className=" flex gap-1">
@@ -196,7 +199,7 @@ export default function Nav({ setIsMenuOpen }) {
               <span class="text-xs font-medium">Call</span>
             </a>
             <a
-              href="mailto:harpreet@lifecyclefinancial.co.nz"
+              href="mailto:info@abcmortgage.com"
               class="flex flex-col items-center justify-center gap-1 text-gray-600 hover:text-[var(--primary)] transition-colors duration-200 py-2"
             >
               <svg

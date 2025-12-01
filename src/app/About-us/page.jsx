@@ -26,13 +26,13 @@ export default function about() {
                     <i className="   ri-record-circle-line mr-1 "></i> About us
                   </p>
                   <h2 className="text-black text-[20px] lg:text-[24px]   mt-4 leading-7  xl:leading-9 font-semibold">
-                    Welcome to Lifecycle Financial – Your Trusted Financial
+                    Welcome to Mandeep Mortgage – Your Trusted Financial
                     Advisory Partner
                   </h2>
                 </div>
                 <div className="right text-black font-semibold ">
                   <p className="  text-[14px]  font-extralight tracking-wider leading-6  text-justify    mt-3 ">
-                    Lifecycle Financial is a Trusted financial advisory firm,
+                    Mandeep Mortgage is a Trusted financial advisory firm,
                     committed to delivering a comprehensive range of financial
                     services tailored to your needs. We specialize in:
                     <br /> <strong>Mortgage Solutions</strong> – Residential and
@@ -65,7 +65,7 @@ export default function about() {
                   Comprehensive Financial Solutions, Tailored to Your Needs
                 </h2>
                 <p className=" text-[14px]   text-justify text-white/80  ">
-                  At LifeCycle Financial, we are non-aligned advisers, meaning
+                  At Mandeep Mortgage, we are non-aligned advisers, meaning
                   we are not tied to any specific lender or insurer. This
                   independence allows us to provide objective recommendations
                   tailored solely to your needs—based on a comprehensive needs
@@ -96,18 +96,18 @@ export default function about() {
 
               {[
                 {
-                  Name: "Harpeet Singh Rattan",
+                  Name: "Mandeep Mortgage",
                   title: " Financial Adviser",
-                  Phone: "021408971",
-                  img: "/Harpeet-Singh-Rattan.jpg",
-                  alt:"Harpeet Singh Rattan"
+                  Phone: "95920 00818",
+                  img: "/boy.jpg",
+                  alt:"Mandeep Mortgage"
                 },
                 {
-                  Name: "Rajwinder Rattan",
+                  Name: "Ram ",
                   title: "Financial Adviser",
-                  Phone: "021707246",
-                  img: "/Rajwinder-Rattan.jpg",
-                  alt:"Rajwinder Rattan"
+                  Phone: "95920 00818",
+                  img: "/girl2.jpg",
+                  alt:"Ram "
                 },
               ].map((el) => (
                 <div className="card  w-[80%] sm:w-[50%] md:w-[40%] lg:w-[25%] tracking-wider  mt-4  bg-white shadow rounded-xl flex items-center justify-center text-center p-4">
@@ -137,7 +137,7 @@ export default function about() {
             {/* Lower div */}
             <div className=" lower w-full flex max-lg:flex-col  gap-6 lg:gap-3  lg:p-[2.8rem]  xl:p-[5rem] justify-around  ">
               <div className=" w-full rounded-2xl   lg:w-[45%] bg-white p-3 shadow-2xl  lg:p-10  styled-html  ">
-                <h2>Why Lifecycle Financial?</h2>
+                <h2>Why Mandeep Mortgage?</h2>
                 <ul>
                   <li>
                     We act as a single point of contact for all your financial

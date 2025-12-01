@@ -19,7 +19,7 @@ export default function(){
 
   {/* Introduction */}
   <p>
-    At LifeCycle Financial, we are committed to providing the highest standards of service and support. 
+    At Mandeep Mortgage, we are committed to providing the highest standards of service and support. 
     However, if you are dissatisfied or experience an issue, we encourage you to let us know as soon as possible. 
     Your feedback helps us continuously improve the products and services we offer.
   </p>
@@ -37,8 +37,8 @@ export default function(){
     </p>
     <ul className="list-disc pl-5 mt-2 space-y-1">
       <li><strong>Phone:</strong> 021 408 971</li>
-      <li><strong>Email:</strong> harpreet@lifecyclefinancial.co.nz</li>
-      <li><strong>Post:</strong> 3 Otaota Way, Flat Bush, Auckland 2019</li>
+      <li><strong>Email:</strong> info@abcmortgage.com</li>
+      <li><strong>Post:</strong> Near GNDE college, Ludhiana,Punjab 2019</li>
     </ul>
 
     <p className="mt-4 font-semibold text-black">Please include:</p>

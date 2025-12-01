@@ -30,7 +30,7 @@ const Sidebar = () => {
                 Trusted Name for Group Insurances in New Zealand
               </h2>
               <p className=" mt-1 lg:mt-4 tracking-wider text-justify text-[14px] ">
-                At LifeCycle Financial, we understand that your workers are the
+                At Mandeep Mortgage, we understand that your workers are the
                 greatest asset for your business. Their protection and safety at
                 the workplace is your prime goal. But what about uncertain
                 accidents? This is where group Insurances come into the picture.
@@ -109,7 +109,7 @@ const Sidebar = () => {
               <p className=" text-[14px] mt-2 ">
                 Let your team focus on what they do the best while being
                 stress-free about their financial freedom with comprehensive
-                group Insurance solutions from LifeCycle Financial.
+                group Insurance solutions from Mandeep Mortgage.
               </p>
               <p className=" text-[14px] mt-2">We’re here to help.</p>
         </div>

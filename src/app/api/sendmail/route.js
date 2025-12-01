@@ -21,7 +21,7 @@ export async function POST(request) {
     const resendResult = await resend.emails.send({ // Renamed variable to 'resendResult' for clarity
       from: process.env.RESEND_SENDER_EMAIL,
       to: process.env.YOUR_RECEIVER_EMAIL,
-      subject: `New  Enquiry from LifeCycle Financial ${sourcePage} `, // Your customized subject line
+      subject: `New  Enquiry from Mandeep Mortgage ${sourcePage} `, // Your customized subject line
       html: `
         <p><strong>Name:</strong> ${name}</p>
         <p><strong>Email:</strong> ${email}</p>

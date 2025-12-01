@@ -51,10 +51,10 @@ const Sidebar = () => {
               <h1 className=" text-[var(--primg)]  ">
                 <i className="ri-record-circle-line mr-1.5 "></i> Construction Loan
               </h1>
-              <h2 className="   leading-6 text-[18px] lg:text-[26px]  lg:mt-6 font-semibold mt-3 ">Construction Loan from LifeCycle Financial
+              <h2 className="   leading-6 text-[18px] lg:text-[26px]  lg:mt-6 font-semibold mt-3 ">Construction Loan from Mandeep Mortgage
               </h2>
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-              Are you planning to build a home or undertake a major renovation? It might require a lot of investment. This is where a construction loan from LifeCycle Financial comes into the picture. Our goal is to give you the required flexibility and support to bring your vision to life, without financial crunches.
+              Are you planning to build a home or undertake a major renovation? It might require a lot of investment. This is where a construction loan from Mandeep Mortgage comes into the picture. Our goal is to give you the required flexibility and support to bring your vision to life, without financial crunches.
               </p>
              
             </div>
@@ -76,7 +76,7 @@ const Sidebar = () => {
                     As the name suggests, a construction loan is a short-term, progress-based loan that is designed to fund the building or renovation of a residential or commercial property. Many people may get confused between home Loan and construction Loan, but they’re different. 
                     </p>
                     <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-                   At LifeCycle Financial, we are here to help you navigate the best construction Loan at competitive prices so that you can focus on building with confidence. 
+                   At Mandeep Mortgage, we are here to help you navigate the best construction Loan at competitive prices so that you can focus on building with confidence. 
                     </p>
                   </div>
                 </div>
@@ -98,11 +98,11 @@ const Sidebar = () => {
             {/* content 2 */}
             <div className=" text-black mt-4 ">
               <h1 className="  text-[18px] lg:text-[26px] text-black font-semibold ">
-                Why Choose LifeCycle Financial?
+                Why Choose Mandeep Mortgage?
               </h1>
 
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-               LifeCycle Financial is your one-stop solution to find the best construction loan solutions. Whether you're planning to handle the project yourself or have hired a licensed builder, our team can help find the best plans and finances before offering customised solutions. Our team has developed strong relationships with financial institutions and banks in New Zealand, which means we’re able to find the right loan structure for your project.
+               Mandeep Mortgage is your one-stop solution to find the best construction loan solutions. Whether you're planning to handle the project yourself or have hired a licensed builder, our team can help find the best plans and finances before offering customised solutions. Our team has developed strong relationships with financial institutions and banks in New Zealand, which means we’re able to find the right loan structure for your project.
               </p>
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
                Need help? We’re here!

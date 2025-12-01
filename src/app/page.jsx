@@ -239,7 +239,7 @@ useGSAP(() => {
               <p className="animate-fadeInUp text-gray-300 text-sm md:text-base font-semibold mb-2">
                 <i className="ri-record-circle-line mr-2 text-lg font-extralight text-white"></i>
                 {/* {data?.data[0]?.title} */}
-                LIFE CYCLE FINANCIAL
+                 FINANCIAL WORLD
               </p>
 
               <div className=" text-[26px] md:text-[46px] lg:text-[58px] font-semibold tracking-normal leading-tight">
@@ -252,7 +252,7 @@ useGSAP(() => {
               </div>
 
               <h4 className="mt-4 text-[14px] lg:w-[65%] text-white tracking-wider ">
-                Lifecycle Financial is a Leading independent Financial Advisory
+                 Financial WORLD is a Leading independent Financial Advisory
                 Company providing a wide range of financial services to the
                 clients including Mortgages both Residential & Commercial,
               </h4>
@@ -329,11 +329,11 @@ useGSAP(() => {
                 <h3 className="text-[var(--primg)] font-semibold  ">
                   {" "}
                   <i className="  ri-record-circle-line font-medium mr-2  "></i>
-                Get to Know Life Cycle Financial
+                Get to Know  Financial World
 
                 </h3>
                 <p className=" text-[16px]  text-[var(--secgr)] font-normal  mt-2">
-                  We provide wide range of financial services to the clients including Mortgages both Residential & Commercial, & Personal Insurance products such as life, Health, Income Protection, Mortgage Protection, Redundancy cover and Trauma Insurance. For home, contents, car and business Insurance we have additional specialists that we call upon.
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eius obcaecati accusantium doloremque iure fuga, aut temporibus natus quae explicabo hic eveniet ipsa necessitatibus velit consectetur eum nam sint praesentium veniam dolorem, at tempora. Ab!
                 </p>
                 <button
                   onClick={() => router.push("/About-us")}
@@ -357,7 +357,7 @@ useGSAP(() => {
                        One Call Does It All
                       </p>
                       <span className="  text-white/100 text-[14px] tracking-widest mt-2   ">
-                        From application to approval, we handle everything under one roof. With access to top banks and lenders across New Zealand
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at consequatur quidem ipsum explicabo! Temporibus  sequi  est.
                       </span>
                     </div>
                   </div>
@@ -371,14 +371,14 @@ useGSAP(() => {
                     </div>
 
                     <div className="call">
-                      <a href="tel:0800507770" className=" block font-semibold">
+                      <a href="tel:9592000818" className=" block font-semibold">
                         Call Now
                       </a>
                       <a
-                        href="tel:0800507770"
+                        href="tel:9592000818"
                         className=" cursor-pointer text-[var(--secgr)] font-semibold text-[18px]"
                       >
-                        0800 50 7770
+                       95920 00818
                       </a>
                     </div>
                   </div>
@@ -387,8 +387,8 @@ useGSAP(() => {
                 <div className="lowerpic sec-2-anim w-full flex flex-col items-center max-md:mt-6 md:w-[40%] lg:w-[40%]  lg:mt-8 xl:mt-3   ">
                   <div className="img">
                     <img
-                      src="/sec2pic2.png"
-                      className=" h-[19rem] lg:h-[16rem] xl:h-[18rem] "
+                      src="/girl.jpg"
+                      className=" h-[19rem] lg:h-[16rem] xl:h-[18rem] object-cover "
                       alt=""
                     />
                   </div>
@@ -410,7 +410,7 @@ useGSAP(() => {
                         href="tel:0800507770"
                         className="  text-[var(--secgr)]"
                       >
-                        0800 50 7770
+                        95920 00818
                       </a>
                     </div>
                   </div>

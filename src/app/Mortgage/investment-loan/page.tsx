@@ -48,7 +48,7 @@ const Sidebar = () => {
                 Investment Loan For Those Who Love To Invest And Build Long-Term Wealth
               </h2>
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-                Investment is the best way to make your money earn for you, but not everyone has enough money to invest. This is where investment Loan come into the picture. At LifeCycle Financial, we are your one-stop choice when it comes to hunting the unmatched deals on investment Loan.
+                Investment is the best way to make your money earn for you, but not everyone has enough money to invest. This is where investment Loan come into the picture. At Mandeep Mortgage, we are your one-stop choice when it comes to hunting the unmatched deals on investment Loan.
               </p>
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
                Whether you’re planning to buy your first rental property or expanding your portfolio, our team is here to help you with a seamless process of securing the right investment loan for your goals.

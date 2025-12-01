@@ -45,7 +45,7 @@ const Sidebar = () => {
                 <i className="ri-record-circle-line mr-1.5 "></i>Commercial Loan
               </h1>
               <p className=" mt-1 lg:mt-4 tracking-wider text-[14px] text-justify ">
-              At Lifecycle Financial, we take pride in providing flexible and strategic commercial Loan that help New Zealand businesses flourish. Whether you want to extend your operation, buy new machines or invest in company premises, our knowledgeable experts are available who will guide you to secure the proper finances, quickly, without any hassles.
+              At Mandeep Mortgage, we take pride in providing flexible and strategic commercial Loan that help New Zealand businesses flourish. Whether you want to extend your operation, buy new machines or invest in company premises, our knowledgeable experts are available who will guide you to secure the proper finances, quickly, without any hassles.
               </p>
             </div>
 
@@ -89,7 +89,7 @@ const Sidebar = () => {
             {/* content 2 */}
             <div className=" text-black mt-4 ">
               <h1 className="  text-[18px] lg:text-[26px] text-black font-semibold ">
-               Why Choose Lifecycle Financial for Your Commercial Loan?
+               Why Choose Mandeep Mortgage for Your Commercial Loan?
               </h1>
                 {cover.map((el) => (
                       <>

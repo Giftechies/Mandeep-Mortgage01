@@ -16,7 +16,7 @@ export default function () {
   <div>
     <h3 className="text-xl font-semibold mb-2">Licensing Information</h3>
     <p>
-      We operate as a Financial Advice Provider (FSP210065) under a current license issued by the Financial Markets Authority in the name of Lifecycle Financial Services Ltd.
+      We operate as a Financial Advice Provider (FSP210065) under a current license issued by the Financial Markets Authority in the name of Mandeep Mortgage Services Ltd.
     </p>
     <p>
       There are no conditions on the license to restrict or limit the advice that may be given.
@@ -28,8 +28,8 @@ export default function () {
     <h3 className="text-xl font-semibold mb-2">Contact Details</h3>
     <ul className="list-disc ml-6 space-y-1">
       <li><strong>Phone:</strong> 0800507770</li>
-      <li><strong>Email:</strong> harpreet@lifecyclefinancial.co.nz, raji@lifeyclefinancial.co.nz</li>
-      <li><strong>Address:</strong> 3 Otaota Way, Flat Bush, Auckland 2019</li>
+      <li><strong>Email:</strong> info@abcmortgage.com, raji@lifeyclefinancial.co.nz</li>
+      <li><strong>Address:</strong> Near GNDE college, Ludhiana,Punjab 2019</li>
     </ul>
   </div>
 
@@ -37,7 +37,7 @@ export default function () {
   <div>
     <h3 className="text-xl font-semibold mb-2">Duties Information</h3>
     <p>
-      Lifecycle Financial Services Ltd, and anyone who gives financial advice on our behalf, has duties under the Financial Markets Conduct Act 2013 relating to the way we give advice. We are required to:
+      Mandeep Mortgage Services Ltd, and anyone who gives financial advice on our behalf, has duties under the Financial Markets Conduct Act 2013 relating to the way we give advice. We are required to:
     </p>
     <ul className="list-disc ml-6 space-y-1">
       <li>Give priority to your interests</li>
@@ -115,9 +115,9 @@ export default function () {
     </p>
     <h4 className="font-semibold mt-2">Step One – Talk to Us</h4>
     <ul className="list-disc ml-6 space-y-1">
-      <li><strong>Phone:</strong> 021408971</li>
-      <li><strong>Email:</strong> harpreet@lifecyclefinancial.co.nz</li>
-      <li><strong>Write:</strong> 3 Otaota Way, Flat Bush, Auckland 2019</li>
+      <li><strong>Phone:</strong> 95920 00818</li>
+      <li><strong>Email:</strong> info@abcmortgage.com</li>
+      <li><strong>Write:</strong> Near GNDE college, Ludhiana,Punjab 2019</li>
     </ul>
     <p>
       We’ll acknowledge your complaint within 24 hours, log it in our register, and respond within 7 working days.
