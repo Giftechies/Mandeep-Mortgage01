@@ -387,7 +387,7 @@ useGSAP(() => {
                 <div className="lowerpic sec-2-anim w-full flex flex-col items-center max-md:mt-6 md:w-[40%] lg:w-[40%]  lg:mt-8 xl:mt-3   ">
                   <div className="img">
                     <img
-                      src="/girl.jpg"
+                      src="/sec2pic2.png"
                       className=" h-[19rem] lg:h-[16rem] xl:h-[18rem] object-cover "
                       alt=""
                     />

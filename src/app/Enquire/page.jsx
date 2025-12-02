@@ -189,13 +189,7 @@ export default function EnquiryNow() {
         >
           <h4 className="text-[18px] flex-grow font-semibold mb-2 "> <i className="ri-record-circle-line"></i> Get Direction</h4>
           {/* IMPORTANT: Replace this iframe src with a proper Google Maps Embed URL */}
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3187.646543501744!2d174.9189033760451!3d-36.95353847225112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d4b8f5d0f1b21%3A0x6d0d4b8f5d0f1b21!2s3%20Otaota%20Way%2C%20Flat%20Bush%2C%20Auckland%202019%2C%20New%20Zealand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
-            className="w-full h-[400px] border-0 rounded-xl md:mt-4 "
-            allowFullScreen=""
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          ></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1210.8995650425923!2d75.85851741170251!3d30.860321921702237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a82892cb07ba9%3A0xd60cc1725d6aa480!2sHPS%20Eye%20Hospital!5e0!3m2!1sen!2sin!4v1764670456672!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </section>
     </>
