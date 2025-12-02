@@ -347,7 +347,7 @@ useGSAP(() => {
                 <div className="sec-2-OneBox sec-2-anim md:w-[55%]  lg:w-[80%]  ">
                   <div className="text bg-[var(--primg)] text-white mt-6 max-lg:rounded-4xl  p-6 md:w-[100%] md:p-12 md:flex md:flex-col lg:py-10 lg:px-6 xl:px-10 xl:py-16    lg:w-[100%] justify-center items-center  lg:rounded-r-4xl    ">
                     <div className="">
-                      <p className=" font-semibold">
+                      <p className=" !text-[18px] font-semibold">
                         {" "}
                         <img
                           src="/checksquare.svg"
@@ -510,7 +510,7 @@ useGSAP(() => {
                 </div>
                 {/* part 2 */}
                 <div
-                  onClick={() => router.push("/Mortgage")}
+                  onClick={() => router.push("#")}
                   className="part2  sec-4-card-left w-full h-[50%] px-10 flex  flex-col  justify-center bg-[var(--primg)] text-white relative md:h-[90%] lg:h-full md:w-[50%] lg:px-6 lg:py-12  rounded-2xl overflow-hidden  "
                 >
                   <h3 className="text-[20px] font-bold cursor-pointer ">

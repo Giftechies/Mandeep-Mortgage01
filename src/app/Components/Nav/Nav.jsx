@@ -58,10 +58,10 @@ export default function Nav({ setIsMenuOpen }) {
                       "Life insurance",
                       "Trauma Recovery Cover",
                       "Total Permanent Disability Benefit Cover",
-                      // "Mortgage & Rent Protection Cover",
-                      // "Income Protection Cover",
-                      // "Medical Insurance",
-                      // "Group Insurance",
+                      "Mortgage & Rent Protection Cover",
+                      "Income Protection Cover",
+                      "Medical Insurance",
+                      "Group Insurance",
                     ].map((item, index) => (
                       <Link
                         key={index}

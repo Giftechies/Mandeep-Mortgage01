@@ -21,10 +21,10 @@ export default function Footer() {
                 <Link href="/Insurance/life-insurance" className="text-white/90 hover:text-white transition-colors">Life Insurance</Link>
                 <Link href="/Insurance/trauma-recovery-cover" className="text-white/90 hover:text-white transition-colors">Trauma Recovery Cover</Link>
                 <Link href="/Insurance/total-permanent-disability-benefit-cover" className="text-white/90 hover:text-white transition-colors">Total Permanent Disability Benefit Cover</Link>
-                {/* <Link href="/Insurance/mortgage-rent-protection-cover" className="text-white/90 hover:text-white transition-colors">Mortgage & Rent Protection Cover</Link>
+                <Link href="/Insurance/mortgage-rent-protection-cover" className="text-white/90 hover:text-white transition-colors">Mortgage & Rent Protection Cover</Link>
                 <Link href="/Insurance/income-protection-cover" className="text-white/90 hover:text-white transition-colors">Income Protection Cover</Link>
                 <Link href="/Insurance/medical-insurance" className="text-white/90 hover:text-white transition-colors">Medical Insurance</Link>
-                <Link href="/Insurance/group-insurance" className="text-white/90 hover:text-white transition-colors">Group Insurance</Link> */}
+                <Link href="/Insurance/group-insurance" className="text-white/90 hover:text-white transition-colors">Group Insurance</Link>
               </div>
             </div>
 
